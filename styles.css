@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 .main::before{
-	content: "Before Element ";
+	content: "Before Element";
 	color:rgb(255,0,0);
 	font-weight: bold;
 	font-size: 25px;
 }
 .main::after{
-	content: " After Element";
+	content: "After Element";
 	color:rgb(255,0,0);
 	font-weight: bold;
 	font-size: 25px;
